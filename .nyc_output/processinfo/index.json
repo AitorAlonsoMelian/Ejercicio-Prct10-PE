@@ -1,0 +1,1 @@
+{"processes":{"44335c5d-3047-4a8a-bb96-45766682b6a5":{"parent":"df5b73f4-bde5-4ae4-ab03-f68aef34bb6e","children":[]},"df5b73f4-bde5-4ae4-ab03-f68aef34bb6e":{"parent":null,"children":["44335c5d-3047-4a8a-bb96-45766682b6a5"]}},"files":{"/home/usuario/template/src/basicFunction.ts":["44335c5d-3047-4a8a-bb96-45766682b6a5"]},"externalIds":{}}
